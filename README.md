@@ -1,4 +1,4 @@
-# qualcomm-snapdragon-x-dev-kit
+Hu# qualcomm-snapdragon-x-dev-kit
 Notes from testing the Qualcomm Snapdragon X Dev Kit (now discontinued)
 
 ### Ordering and shipping
@@ -14,4 +14,5 @@ I'm just a regular user so the most intensive thing I do with a PC is normally p
 - Cyberpunk 2077 -
 - Balatro - Will not run, says missing OpenGL support
 - Power Wash Simulator - 50-60fps with dips to 40fps. 5120x1440 High preset, 1.0 render scale. GPU maxed out while CPU's at ~10%. Really good performance
-- 
+- Half Life 2 - 30fps as you exit train station and face tower with Breen's TV, 70-140fps elsewhere. 5120x1440, maxed settings except 4x AA not 8x. GPU maxed out, CPU at ~8%.
+- Half Life 2 Episode 2 - 50fps looking at the portal storm, 5120x1440, maxed settings except 4xAA not 8x. GPU maxed out, CPU at ~7%
