@@ -18,5 +18,5 @@ I'm just a regular user so the most intensive thing I do with a PC is normally p
 - Half Life 2 Episode 2 - 50fps looking at the portal storm, 5120x1440, maxed settings except 4xAA not 8x. GPU maxed out, CPU at ~7%
 - Hardspace Shipbreaker - 15fps, 5120x1440 maxed settings. GPU maxed out. CPU ~10%
 - Hardspace Shipbreaker - 35-40fps, 1920x1080 maxed settings. GPU maxed, CPU ~17%
-- The Outer Worlds - 26fps, 1920x1080 very high preset. GPU maxed, CPU ~15-20%.
+- The Outer Worlds - 26fps, 1920x1080 very high preset. GPU maxed, CPU ~15-20%. Reading taken as you gain control over the player for the first time.
 - The Outer Worlds - 32fps, 1920x1080 high preset. GPU maxed, CPU ~15-20%.  
